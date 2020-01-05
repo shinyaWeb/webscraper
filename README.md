@@ -1,3 +1,3 @@
 # webscraper
 ### 1.web_scraper.py
-Pythonで書かれたウェブスクレイピングコードです。初期設定ではGoogleから引っ張ってきます。
+Pythonで書かれたウェブスクレイピングコードです。初期設定では" https://news.google.com/ "から引っ張ってきます。
